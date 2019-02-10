@@ -1,1 +1,1 @@
-# Yahoo-Finance
+Daily/Weekly/Monthly data
